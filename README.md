@@ -4,7 +4,13 @@ node files to learn basics
 # WATCH
 https://www.youtube.com/watch?v=TlB_eWDSMt4
 
-# how to execute js file in node ?
+# install
+https://nodejs.org/en/
+
+# Docs 
+https://nodejs.org/docs/latest-v12.x/api/
+
+# How to execute js file in node ?
 `node <file.js>`
 
 lighting faster and flexible node compare to other server languages.
